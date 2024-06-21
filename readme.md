@@ -1,4 +1,4 @@
-# Small project for an invoice app
+# Small invoice app project for internal use
 
 What does it do ?
 
