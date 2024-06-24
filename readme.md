@@ -1,13 +1,25 @@
-# Small invoice app project for internal use
 
-What does it do ?
+# **Nicholas Portfolio**
 
-It is a user-friendly application designed to streamline the process of creating, managing, and sending invoices. Whether you’re a freelancer, small business owner, or part of a larger organization, InvoiceApp provides the tools you need to keep your invoicing efficient and professional.
+Hello there and welcome to my personal portfolio website! Here you’ll find information about my projects, skills, and how to contact me.
 
-**Features:**
+## **About Me**
 
-* **Create Invoices:** Easily generate professional invoices with customizable templates.
-* **Manage Clients:** Keep track of your clients and their contact information.
-* **Send Invoices:** Send invoices directly to clients via email.
-* **Track Payments:** Monitor the status of invoices and record payments.
-* **Reports:** Generate financial reports to analyze your invoicing and payment history.
+Hi! I’m Nicholas, a seasoned Desktop Engineer with 11 years of experience in providing exceptional customer service and troubleshooting a wide range of machines. My strong technical skills and dedication to helping users have driven my success in the field. Currently, I am expanding my expertise by learning programming, with the goal of transitioning into a Software Engineer role in the near future. I’m passionate about technology and continuously seeking to improve my skills and knowledge.
+
+## **Skills**
+
+* **Programming Languages:** JavaScript, Python
+* **Web Development:** HTML, CSS, React, Node.js, Flask
+* **Database Management:** MySQL, MongoDB
+* **Tools & Technologies:** Git,
+* **Other Skills:** Problem-solving, teamwork , customer service , troubleshooting skills
+
+## **Projects**
+
+## **Contact**
+
+Feel free to reach out to me for any inquiries or collaboration opportunities!
+
+* **Email:** nicholasyanga07@gmail.com
+* **GitHub: https://github.com/nickyanga**
